@@ -8,7 +8,7 @@ const Posts = () => {
     { path: "/posts/4" },
   ];
   return (
-    <>
+    <> 
       <h1>Posts Component</h1>
       <ul>
         {posts.map((post) => (
